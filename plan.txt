@@ -1,0 +1,25 @@
+Apa yang membuat website mu dibutuhkan oleh masyarakat ?
+- seperti biodata dengan ukuran kecil dengan tampilan yang menarik
+- dapat berisi , nama,tentangmu,pengalamanmu,karirmu,hobbymu,socialmediamu
+
+
+isi biodata itu apa aja ?
+- nama dan alias
+- tanggal tempat lahir dan umur
+- jenjang pendidikan
+- tentangmu(hobby,kesukaa/kebiasaan,history)
+- kutipan
+- kontak(email/no hp)
+- social media
+
+
+//reverensi google//
+Mulailah Dengan Fakta Dasar Tentang Orang tersebut
+
+- tanggal dan tempat lahir (dan kematian, jika ada)
+- lokasi tempat tinggal saat ini
+- latar belakang pendidikan
+- pengalaman profesional
+- bidang keahlian
+- pencapaian besar
+

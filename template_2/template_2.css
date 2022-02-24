@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+	font-family: 'Roboto', sans-serif;
+	color: rgb(41, 41, 41);
+	background-color: rgb(255, 255, 255);
+}
+
+/* ipad and web */
+@media (min-device-width: 481px) {
+	.profile {
+		display: none;
+	}
+}
+
+.profile {
+	height: auto;
+	width: auto;
+	background-color: #27b49a;
+	border-radius: 20px;
+	box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.363);
+}
+
+.row {
+	display: flex;
+}
+
+.background {
+	width: 40%;
+	height: auto;
+	border-radius: 20px 0 0 20px;
+	background-image: url(img/backgroud.gif);
+	background-position: 37%;
+	background-size: cover;
+}
+
+.layer {
+	margin-left: -69px;
+	width: 70px;
+	height: auto;
+	background-image: linear-gradient(to right, #62b8a800, #62b8a8);
+}
+
+.description {
+	width: 60%;
+	height: auto;
+	border-radius: 0 20px 20px 0;
+	background-color: #62b8a8;
+}
+
+.picture {
+	height: 70px;
+	width: 70px;
+	background-image: url(img/kanna.gif);
+	background-position: center;
+	background-size: cover;
+	border-radius: 50%;
+	border: 6px solid #62b8a8;
+	margin-left: -40px;
+	margin-top: 20px;
+}
+
+.word {
+	margin-top: 40px;
+	margin-left: 5px;
+}
+
+p {
+	margin: 0 15px 0 10px;
+	padding: 0;
+}
+
+.name {
+	display: flex;
+}
+
+.date,
+.about,
+.contact {
+	margin-top: 20px;
+	margin-bottom: 15px;
+	color: #ffffffb2;
+	font-size: 14px;
+	font-weight: 100;
+}
+
+.title {
+	font-size: 18px;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+.tag {
+	color: #0d574a;
+	font-size: 11px;
+	font-weight: 300;
+}
+
+.h2 {
+	font-weight: bold;
+	font-size: 14px;
+	color: #075b4c;
+	margin-bottom: 4px;
+}
+
+.about span {
+	font-weight: bold;
+	color: #f7fffe;
+}
+
+.footer {
+	margin-top: 5px;
+	font-size: 14px;
+	color: #808080;
+}
+
+.social-media {
+	margin-top: 20px;
+	margin-bottom: 15px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.whatsupp,
+.twiter,
+.telegram,
+.instagram {
+	margin-bottom: 10px;
+	width: 25px;
+	height: 25px;
+	margin-left: 10px;
+	background-size: cover;
+	background-position: center;
+}
+
+.whatsupp {
+	background-image: url(img/whatsapp.png);
+}
+
+.instagram {
+	background-image: url(img/instagram.png);
+}
+
+.telegram {
+	background-image: url(img/telegram.png);
+}
+
+.twiter {
+	background-image: url(img/twitter.png);
+}
+
+.job {
+	display: flex;
+	background-color: #1b947e;
+	padding: 5px;
+	width: 85px;
+	border-radius: 20px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	align-items: center;
+}
+
+.flex {
+	display: flex;
+	margin: 0 auto;
+	flex-wrap: wrap;
+}
+
+.icon {
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+}
+.yellow {
+	background-color: #e6e227;
+}
+
+.blue {
+	background-color: #27a0e6;
+}
+
+.job p {
+	margin-left: 10px;
+	margin-right: 0;
+	font-size: 14px;
+	color: #ffffff;
+}
